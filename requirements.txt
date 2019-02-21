@@ -1,0 +1,11 @@
+APScheduler
+dramatiq[all]
+Django
+django-split-settings
+django_dramatiq
+apscheduler-dramatiq-executor
+dramatiq-tasks-manager
+raven
+djangorestframework
+psycopg2-binary
+sqlalchemy
